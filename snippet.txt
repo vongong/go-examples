@@ -1,0 +1,12 @@
+if err != nil {
+	fmt.Printf("%v\n", err )
+}
+--------
+if !ok {
+	fmt.Println("unable to ")
+}
+--------
+package main
+func main() {
+	
+}

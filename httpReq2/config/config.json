@@ -1,0 +1,5 @@
+{
+    "name": "template-name",
+    "port": 3000,
+	"log-level": "info"
+}
